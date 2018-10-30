@@ -1,2 +1,5 @@
 candidates: ~
-precinct: ~
+precinct: 13121:
+    Fake Street Baptist: __accepted__
+    Notional Elementary: __accepted__
+    
