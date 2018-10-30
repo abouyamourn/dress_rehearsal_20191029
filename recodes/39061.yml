@@ -1,2 +1,7 @@
 candidates: ~
-precinct: ~
+precinct: 
+  1:
+    Fake Street Baptist: __accepted__
+
+  2:
+    Provisional: __accepted__
